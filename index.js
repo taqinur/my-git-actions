@@ -1,5 +1,5 @@
-function hello(){
-  console.log('Hello Github Actions')
+function hello() {
+  return 'Hello Github Actions';
 }
 
-hello()
+hello();
